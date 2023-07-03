@@ -39,5 +39,5 @@ ________________________________________________________________________________
 ## 💡Summary
 - ### During exploratory data analysis
   - Modify columns data type and added new columns ex(Family Size,age_group,Initial ) and modify some columns values.
-  - I saw the percentage of dead was seen for both males and females, and the death rate for males was higher.
+  - I saw the percentage of deaths for both males and females, and the death rate for males was higher.
   -  I saw the percentage of deaths for males and females in each Pclass,Embarked and age_group columns.
