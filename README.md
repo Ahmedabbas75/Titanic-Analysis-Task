@@ -13,7 +13,7 @@
   - What is the `busiest` class?
   - What is most passenger `gender`?
   - What is mean of passenger `age`?
-  - What is most passenger `por`t?
+  - What is most passenger `port`?
   - Most passenger without `family` or not?
 ____________________________________________________________________________________
 ## 2- Conclusion
